@@ -1,0 +1,2 @@
+Python is great.
+It makes coding simple.
